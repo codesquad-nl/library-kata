@@ -9,10 +9,10 @@ Your job is to upgrade an old library system. We will evaluate your solution in 
 * The library can supply an overview of its members 
 * New books can be added to the inventory of the library 
 * New members can be added to the library
+* A member can view which books are currently in his possession
 * A book can only be in the possession of a single member at a time 
 * A member can lend available books from the library 
 * A member is allowed a maximum of seven loaned items at a time 
-* A member can view which books are currently in his possession 
 * A member can return books in his possession to the library 
 * Books can be removed from the inventory if they are not currently loaned out 
 * The library can have multiple copies of a book in its inventory 
