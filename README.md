@@ -2,13 +2,14 @@
 
 ## Assignment: 
 
-Your job is to upgrade an old library system. We will evaluate your solution in order to get a feel for your skill level and craftsmanship. The way you implement the system is up to you, but try to keep it as simple as you can. Deliver the code in a state that makes you feel proud of it. Also remember that there are no correct or incorrect solutions, as long as you can explain your choices. Post the code on Github, Gitlab or any other remote repository of your choice which is publicly accessible. 
+Your job is to implement a new library system. We will evaluate your solution in order to get a feel for your skill level and craftsmanship. The way you implement the system is up to you, but try to keep it as simple as you can. Deliver the code in a state that makes you feel proud of it. Also remember that there are no correct or incorrect solutions, as long as you can explain your choices. Post the code on Github, Gitlab or any other remote repository of your choice which is publicly accessible. 
 
 ## Functional Requirements: 
 * The library can supply an overview of its inventory of books 
 * The library can supply an overview of its members 
 * New books can be added to the inventory of the library 
 * New members can be added to the library
+* A member should be unique within the library
 * A member can view which books are currently in his possession
 * A member can lend available books from the library 
 * A member is allowed a maximum of seven loaned items at a time 
