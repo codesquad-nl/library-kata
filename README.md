@@ -1,10 +1,14 @@
 # Library
 
-## Assignment:
+## Assignment
 
-Your job is to implement a new library system. We will evaluate your solution in order to get a feel for your skill level and craftsmanship. The way you implement the system is up to you, but try to keep it as simple as you can. Deliver the code in a state that makes you feel proud of it. Also remember that there are no correct or incorrect solutions, as long as you can explain your choices. Post the code on Github, Gitlab or any other remote repository of your choice which is publicly accessible.
+Your job is to implement a new library system. We will evaluate your solution in order to get a feel for your skill level and craftsmanship.
 
-## Functional Requirements:
+The way you implement the system is up to you, but try to keep it as simple as you can. You can also use one of our kata base setups listed below.
+
+Deliver the code in a state that makes you feel proud of it. Remember that there are no correct or incorrect solutions, as long as you can explain your choices. Post the code on Github, Gitlab or any other remote repository of your choice which is publicly accessible.
+
+## Functional Requirements
 - [ ] The library can supply an overview of its inventory of books
 - [ ] The library can supply an overview of its members
 - [ ] New books can be added to the inventory of the library
@@ -19,7 +23,11 @@ Your job is to implement a new library system. We will evaluate your solution in
 - [ ] The library can always tell where the copy of a book is (in its inventory or at which member)
 - [ ] Books can be removed from the inventory if they are not currently loaned out
 
-## Tips:
+## Tips
 * Try to keep the solution simple;
 * Try to implement the system incrementally
 * We value XP practices and clean code
+
+## Kata base setups
+* Java with Maven base: https://github.com/codesquad-nl/kata-java
+* Kotlin with Gradle base: https://github.com/codesquad-nl/kata-base-jvm
