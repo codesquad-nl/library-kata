@@ -26,8 +26,9 @@ Deliver the code in a state that makes you feel proud of it. Remember that there
 ## Tips
 * Try to keep the solution simple;
 * Try to implement the system incrementally
-* We value XP practices and clean code
+* We value clean code
 
 ## Kata base setups
-* Java with Maven base: https://github.com/codesquad-nl/kata-java
+* Java 11 with Maven base: https://github.com/codesquad-nl/kata-java
+* Java 17  with Maven base: https://github.com/codesquad-nl/kata-java-17
 * Kotlin with Gradle base: https://github.com/codesquad-nl/kata-base-jvm
