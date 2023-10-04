@@ -29,6 +29,6 @@ Deliver the code in a state that makes you feel proud of it. Remember that there
 * We value clean code
 
 ## Kata base setups
-* Java 11 with Maven base: https://github.com/codesquad-nl/kata-java
 * Java 17  with Maven base: https://github.com/codesquad-nl/kata-java-17
+* Java 21 with Maven base: https://github.com/codesquad-nl/kata-java-21
 * Kotlin with Gradle base: https://github.com/codesquad-nl/kata-base-jvm
