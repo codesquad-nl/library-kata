@@ -26,7 +26,7 @@ Deliver the code in a state that makes you feel proud of it. Remember that there
 ## Tips
 * Try to keep the solution simple;
 * Try to implement the system incrementally
-* We value clean code
+* We value clean code and test driven development
 
 ## Kata base setups
 * Java 17  with Maven base: https://github.com/codesquad-nl/kata-java-17
